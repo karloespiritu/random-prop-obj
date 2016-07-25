@@ -1,6 +1,6 @@
 # random-prop-obj
 
-Pick a random property from an object
+Pick a random property value from an object
 
 ## Install
 
