@@ -15,9 +15,9 @@ const randomProp = require('random-prop-obj')
 const obj = {a: 1, b: 'two', c: 3, d: 4}
 
 randomProp(obj)
-// => true
+// => two
 
-randomProp(arr)
-// => true
+randomProp(obj)
+// => 3
 
 ```
