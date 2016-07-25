@@ -1,6 +1,6 @@
 {
   "name": "random-prop-obj",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pick a random property value from an object",
   "main": "index.js",
   "scripts": {
