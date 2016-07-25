@@ -1,4 +1,4 @@
-# random-prop-obj
+# random-prop-obj [![Build Status](https://travis-ci.org/karloespiritu/random-prop-obj.svg?branch=master)](https://travis-ci.org/karloespiritu/random-prop-obj)
 
 Pick a random property value from an object
 
