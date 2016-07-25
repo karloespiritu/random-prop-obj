@@ -1,0 +1,35 @@
+{
+  "name": "random-prop-obj",
+  "version": "1.0.0",
+  "description": "Pick a random property from an object",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "object",
+    "random",
+    "property",
+    "values"
+  ],
+  "author": {
+    "name": "Karlo Espiritu",
+    "email": "karloespiritu@gmail.com",
+    "url": "http://karloespiritu.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karloespiritu/random-prop-obj/issues"
+  },
+  "homepage": "https://github.com/karloespiritu/random-prop-obj#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karloespiritu/random-prop-obj.git"
+  },
+  "devDependencies": {
+    "tape": "^4.6.0"
+  },
+  "engines": {
+      "node": ">= 5.6.0"
+  }
+}
